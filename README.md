@@ -35,7 +35,7 @@ Achieving an 85% recall rate significantly prevents financial losses by capturin
 ![Precision-Recall Curve](images/pr_curve.png)
 
 ### Test Results (Confusion Matrix & Report)
-![Classification Report](images/results.png)
+![Classification Report](images/result.png)
 
 ## Technologies Used
 * Python
